@@ -1,1 +1,2 @@
+- [DESIGN] (https://www.figma.com/file/Mze9CoCjlXDjWfrbaIO3Zj/Test?node-id=1%3A1005)
 - [DEMO LINK](https://bogdansgit.github.io/LP-S3/)
