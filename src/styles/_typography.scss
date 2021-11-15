@@ -1,3 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+}
+
 h1 {
-  @extend %h1;
+  font-size: 93px;
+  line-height: 90px;
+  color: #f4f9fc;
+}
+
+h2 {
+  margin: 30px 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 60px;
+  line-height: 45px;
+  color: $secondary-blue-color;
+}
+
+h3 {
+  transform: translateY(-100%);
+  font-size: 40px;
+  line-height: 35px;
+  color: $main-blue-color;
+}
+
+h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 32px;
+
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 41px;
+
+}
+
+p {
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
 }
